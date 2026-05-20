@@ -19,6 +19,13 @@ The project was designed to provide hands-on experience with:
 
 ---
 
+# Full Project Walkthrough
+
+Read the complete Medium article documenting the full deployment, architecture decisions, troubleshooting process, and Azure implementation workflow:
+
+[Medium Article Walkthrough](https://medium.com/@rolandarchie93/building-a-serverless-website-uptime-monitoring-solution-in-microsoft-azure-using-powershell-and-861a128250b0?postPublishedType=repub)
+
+
 # Architecture Overview
 
 ## Core Azure Services
