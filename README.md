@@ -139,3 +139,27 @@ Cloud | IAM | Azure Security | PowerShell Automation
 
 GitHub:
 https://github.com/rolandarchie93
+
+# Screenshots
+
+## Azure Function App
+
+![Azure Function App](screenshots/azure-function-running.png)
+
+---
+
+## Successful Deployment
+
+![Deployment Success](screenshots/deployment-success.png)
+
+---
+
+## Local Monitoring Validation
+
+![Local Monitoring](screenshots/local-monitoring-success.png)
+
+---
+
+## Azure Invocation Monitoring
+
+![Invocation History](screenshots/invocation-history.png)
